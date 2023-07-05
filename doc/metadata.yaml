@@ -6,5 +6,7 @@ homepage: false
 images:
 - doc/img/SPIDIFF01A_QRcode.png
 mark: 50
-tags: []
+tags:
+- mlab
+- mlab-module
 title: SPIDIFF01

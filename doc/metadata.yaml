@@ -6,6 +6,7 @@ homepage: false
 images:
 - doc/img/SPIDIFF01A_QRcode.png
 mark: 50
+status: 0
 tags:
 - mlab
 - mlab-module
